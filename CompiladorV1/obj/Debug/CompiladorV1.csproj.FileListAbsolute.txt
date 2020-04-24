@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\bin\Debug\CompiladorV1.exe.config
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\bin\Debug\CompiladorV1.exe
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\bin\Debug\CompiladorV1.pdb
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\obj\Debug\CompiladorV1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\obj\Debug\CompiladorV1.Properties.Resources.resources
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\obj\Debug\CompiladorV1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\obj\Debug\CompiladorV1.exe
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\obj\Debug\CompiladorV1.pdb
+C:\Users\USER\source\repos\CompiladorV1\CompiladorV1\obj\Debug\Compilador.FormCompilador.resources
